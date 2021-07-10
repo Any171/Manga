@@ -1,0 +1,41 @@
+{
+   "title":"Twisted Wonderland: Episode of Heartslabyul",
+   "description":"The first anthology comic of the popular Disney smartphone game Twisted Wonderland is here!",
+   "artist":"Sumire Koono",
+   "backgrounds":"Wakana Hazuki",
+   "cover":"https://pbs.twimg.com/media/E5571rYVEAAnIsN?format=jpg&name=orig",
+   "chapters":{
+      "1":{
+         "title":"Beginning",
+         "volume":"1",
+         "groups":{
+            "Any1":"/proxy/api/imgur/chapter/L5RTVT2/"
+         },
+         "last_updated":"1615849200"
+      },
+      "2":{
+         "title":"Cruel Answer!",
+         "volume":"1",
+         "groups":{
+            "Any1":"/proxy/api/imgur/chapter/xYDFZbW/"
+         },
+         "last_updated":"1618524000"
+      },
+      "3":{
+         "title":"Cruel Answer!",
+         "volume":"1",
+         "groups":{
+            "Any1":"/proxy/api/imgur/chapter/DQ15aG2/"
+         },
+         "last_updated":"1621288800"
+      },
+      "4":{
+         "title":"Reluctant Trouble!",
+         "volume":"1",
+         "groups":{
+            "Any1":"/proxy/api/imgur/chapter/4FRhVp8/"
+         },
+         "last_updated":"1623967200"
+      }
+   }
+}
