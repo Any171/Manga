@@ -35,7 +35,7 @@
          "groups":{
             "Turtlesoup Scans":"/proxy/api/imgur/chapter/4FRhVp8/"
          },
-         "last_updated":"1623967200"
+         "last_updated":"1623967200"},
       "5":{
          "title":"Tenacious Chase!",
          "volume":"1",
@@ -50,6 +50,6 @@
             "Turtlesoup Scans":"/proxy/api/imgur/chapter/AXXMuEo/"
          },
          "last_updated": "1629237600"
-    }
-  }
+      }
+   }
 }
