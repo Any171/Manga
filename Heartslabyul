@@ -77,7 +77,7 @@
             "Turtlesoup Scans":"/proxy/api/imgur/chapter/zuqEz3J/"
          },
          "last_updated":"1634508000"
-       },
+      },
       "10":{
          "title":"Supreme Beast!",
          "volume":"2",
@@ -85,7 +85,7 @@
             "Turtlesoup Scans":"/proxy/api/imgur/chapter/KEPsIju/"
          },
          "last_updated":"1637190000"
-       },
+      },
       "11":{
          "title":"Bad Boy in Sepia!",
          "volume":"2",
@@ -93,7 +93,7 @@
             "Turtlesoup Scans":"/proxy/api/imgur/chapter/cDRmTqQ/"
          },
          "last_updated":"1639782000"
-       },
+      },
       "12":{
          "title":"Army of One!",
          "volume":"2",
@@ -101,6 +101,14 @@
             "Turtlesoup Scans":"/proxy/api/imgur/chapter/wyjjspB/"
          },
          "last_updated":"1642460400"
+      },
+      "13":{
+         "title":"A Surprise Adviser!",
+         "volume":"2",
+         "groups":{
+            "Turtlesoup Scans":"/proxy/api/imgur/chapter/JhqJCVc/"
+         },
+         "last_updated":"1645138800"
       }
    }
 }
