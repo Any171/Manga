@@ -96,7 +96,7 @@
       },
       "12":{
          "title":"Army of One!",
-         "volume":"2",
+         "volume":"3",
          "groups":{
             "Turtlesoup Scans":"/proxy/api/imgur/chapter/wyjjspB/"
          },
@@ -104,11 +104,19 @@
       },
       "13":{
          "title":"A Surprise Adviser!",
-         "volume":"2",
+         "volume":"3",
          "groups":{
             "Turtlesoup Scans":"/proxy/api/imgur/chapter/JhqJCVc/"
          },
          "last_updated":"1645138800"
+      },
+      "14":{
+         "title":"Reckless Duel!",
+         "volume":"3",
+         "groups":{
+            "Turtlesoup Scans":"/proxy/api/imgur/chapter/Kl8AnSl/"
+         },
+         "last_updated":"1647558000"
       }
    }
 }
