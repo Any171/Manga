@@ -1,154 +1,153 @@
 {
-   "title":"Twisted Wonderland The Comic: Episode of Heartslabyul",
-   "description":"Enma Yuuken is a high school student who lived an average life until a black carriage suddenly appeared in front of him one day on his way home from club. After seeing it and losing conciousness, he awoke in another world called Twisted Wonderland. Follow his adventures in a magic realm where everyone idolizes classic Disney villains!",
-   "artist":"Wakana Hazuki",
-   "author":"Sumire Koono",
-   "backgrounds":"Wakana Hazuki",
-   "cover":"https://images-na.ssl-images-amazon.com/images/I/81KVvop9aqL.jpg",
-   "chapters":{
-      "1":{
-         "title":"The Awakened Stranger!",
-         "volume":"1",
-         "groups":{
-            "Turtlesoup Scans":"/proxy/api/imgur/chapter/L5RTVT2/"
-         },
-         "last_updated":"1615849200"
-      },
-      "2":{
-         "title":"Cruel Answer!",
-         "volume":"1",
-         "groups":{
-            "Turtlesoup Scans":"/proxy/api/imgur/chapter/xYDFZbW/"
-         },
-         "last_updated":"1618524000"
-      },
-      "3":{
-         "title":"Encountering People!",
-         "volume":"1",
-         "groups":{
-            "Turtlesoup Scans":"/proxy/api/imgur/chapter/DQ15aG2/"
-         },
-         "last_updated":"1621288800"
-      },
-      "4":{
-         "title":"Reluctant Trouble!",
-         "volume":"1",
-         "groups":{
-            "Turtlesoup Scans":"/proxy/api/imgur/chapter/4FRhVp8/"
-         },
-         "last_updated":"1623967200"
-      },
-      "5":{
-         "title":"Tenacious Chase!",
-         "volume":"2",
-         "groups":{
-            "Turtlesoup Scans":"/proxy/api/imgur/chapter/blKy1cK/"
-         },
-         "last_updated":"1626361200"
-      },
-      "6":{
-         "title":"A Midnight Hanging!",
-         "volume":"2",
-         "groups":{
-            "Turtlesoup Scans":"/proxy/api/imgur/chapter/AXXMuEo/"
-         },
-         "last_updated":"1629237600"
-      },
-      "7":{
-         "title":"Triple Snack!",
-         "volume":"2",
-         "groups":{
-            "Turtlesoup Scans":"/proxy/api/imgur/chapter/yydrYDg/"
-         },
-         "last_updated":"1629237600"
-      },
-      "8":{
-         "title":"Hasty Escapist!",
-         "volume":"2",
-         "groups":{
-            "Turtlesoup Scans":"/proxy/api/imgur/chapter/vpwCH14/"
-         },
-         "last_updated":"1631916000"
-      },
-      "9":{
-         "title":"Guilty Lunch!",
-         "volume":"2",
-         "groups":{
-            "Turtlesoup Scans":"/proxy/api/imgur/chapter/zuqEz3J/"
-         },
-         "last_updated":"1634508000"
-      },
-      "10":{
-         "title":"Supreme Beast!",
-         "volume":"2",
-         "groups":{
-            "Turtlesoup Scans":"/proxy/api/imgur/chapter/KEPsIju/"
-         },
-         "last_updated":"1637190000"
-      },
-      "11":{
-         "title":"Bad Boy in Sepia!",
-         "volume":"2",
-         "groups":{
-            "Turtlesoup Scans":"/proxy/api/imgur/chapter/cDRmTqQ/"
-         },
-         "last_updated":"1639782000"
-      },
-      "12":{
-         "title":"Army of One!",
-         "volume":"3",
-         "groups":{
-            "Turtlesoup Scans":"/proxy/api/imgur/chapter/wyjjspB/"
-         },
-         "last_updated":"1642460400"
-      },
-      "13":{
-         "title":"A Surprise Adviser!",
-         "volume":"3",
-         "groups":{
-            "Turtlesoup Scans":"/proxy/api/imgur/chapter/JhqJCVc/"
-         },
-         "last_updated":"1645138800"
-      },
-      "14":{
-         "title":"Reckless Duel!",
-         "volume":"3",
-         "groups":{
-            "Turtlesoup Scans":"/proxy/api/imgur/chapter/Kl8AnSl/"
-         },
-         "last_updated":"1647558000"
-      },
-      "15":{
-         "title":"Valid Resistance!",
-         "volume":"3",
-         "groups":{
-            "Turtlesoup Scans":"/proxy/api/imgur/chapter/yARpFYc/"
-         },
-         "last_updated":"1650232800"
-       },
-      "16":{
-         "title":"Raging Prefect!",
-         "volume":"3",
-         "groups":{
-            "Turtlesoup Scans":"/proxy/api/imgur/chapter/DtZsXaK/"
-         },
-         "last_updated":"1652824800"
-       },
-      "17":{
-         "title":"Raging Prefect! II",
-         "volume":"4",
-         "groups":{
-            "Turtlesoup Scans":"/proxy/api/imgur/chapter/kp78N6z/"
-         },
-         "last_updated":"1655503200"
-       },
-      "18":{
-         "title":"Raging Prefect! III",
-         "volume":"4",
-         "groups":{
-            "Turtlesoup Scans":"/proxy/api/imgur/chapter/0wvQjD4/"
-         },
-         "last_updated":"1657922400"
+  "title": "Twisted Wonderland The Comic: Episode of Heartslabyul",
+  "description": "Enma Yuuken is a high school student who lived an average life until a black carriage suddenly appeared in front of him one day on his way home from club. After seeing it and losing conciousness, he awoke in another world called Twisted Wonderland. Follow his adventures in a magic realm where everyone idolizes classic Disney villains!",
+  "artist": "Wakana Hazuki",
+  "author": "Sumire Koono",
+  "cover": "https://images-na.ssl-images-amazon.com/images/I/81KVvop9aqL.jpg",
+  "chapters": {
+    "1": {
+      "title": "The Awakened Stranger!",
+      "volume": "1",
+      "last_updated": "1615849200",
+      "groups": {
+        "Turtlesoup Scans": "/proxy/api/imgur/chapter/L5RTVT2/"
       }
-   }
+    },
+    "2": {
+      "title": "Cruel Answer!",
+      "volume": "1",
+      "last_updated": "1618524000",
+      "groups": {
+        "Turtlesoup Scans": "/proxy/api/imgur/chapter/xYDFZbW/"
+      }
+    },
+    "3": {
+      "title": "Encountering People!",
+      "volume": "1",
+      "last_updated": "1621288800",
+      "groups": {
+        "Turtlesoup Scans": "/proxy/api/imgur/chapter/DQ15aG2/"
+      }
+    },
+    "4": {
+      "title": "Reluctant Trouble!",
+      "volume": "1",
+      "last_updated": "1623967200",
+      "groups": {
+        "Turtlesoup Scans": "/proxy/api/imgur/chapter/4FRhVp8/"
+      }
+    },
+    "5": {
+      "title": "Tenacious Chase!",
+      "volume": "2",
+      "last_updated": "1626361200",
+      "groups": {
+        "Turtlesoup Scans": "/proxy/api/imgur/chapter/blKy1cK/"
+      }
+    },
+    "6": {
+      "title": "A Midnight Hanging!",
+      "volume": "2",
+      "last_updated": "1629237600",
+      "groups": {
+        "Turtlesoup Scans": "/proxy/api/imgur/chapter/AXXMuEo/"
+      }
+    },
+    "7": {
+      "title": "Triple Snack!",
+      "volume": "2",
+      "last_updated": "1629237600",
+      "groups": {
+        "Turtlesoup Scans": "/proxy/api/imgur/chapter/yydrYDg/"
+      }
+    },
+    "8": {
+      "title": "Hasty Escapist!",
+      "volume": "2",
+      "last_updated": "1631916000",
+      "groups": {
+        "Turtlesoup Scans": "/proxy/api/imgur/chapter/vpwCH14/"
+      }
+    },
+    "9": {
+      "title": "Guilty Lunch!",
+      "volume": "2",
+      "last_updated": "1634508000",
+      "groups": {
+        "Turtlesoup Scans": "/proxy/api/imgur/chapter/zuqEz3J/"
+      }
+    },
+    "10": {
+      "title": "Supreme Beast!",
+      "volume": "2",
+      "last_updated": "1637190000",
+      "groups": {
+        "Turtlesoup Scans": "/proxy/api/imgur/chapter/KEPsIju/"
+      }
+    },
+    "11": {
+      "title": "Bad Boy in Sepia!",
+      "volume": "2",
+      "last_updated": "1639782000",
+      "groups": {
+        "Turtlesoup Scans": "/proxy/api/imgur/chapter/cDRmTqQ/"
+      }
+    },
+    "12": {
+      "title": "Army of One!",
+      "volume": "3",
+      "last_updated": "1642460400",
+      "groups": {
+        "Turtlesoup Scans": "/proxy/api/imgur/chapter/wyjjspB/"
+      }
+    },
+    "13": {
+      "title": "A Surprise Adviser!",
+      "volume": "3",
+      "last_updated": "1645138800",
+      "groups": {
+        "Turtlesoup Scans": "/proxy/api/imgur/chapter/JhqJCVc/"
+      }
+    },
+    "14": {
+      "title": "Reckless Duel!",
+      "volume": "3",
+      "last_updated": "1647558000",
+      "groups": {
+        "Turtlesoup Scans": "/proxy/api/imgur/chapter/Kl8AnSl/"
+      }
+    },
+    "15": {
+      "title": "Valid Resistance!",
+      "volume": "3",
+      "last_updated": "1650232800",
+      "groups": {
+        "Turtlesoup Scans": "/proxy/api/imgur/chapter/yARpFYc/"
+      }
+    },
+    "16": {
+      "title": "Raging Prefect!",
+      "volume": "3",
+      "last_updated": "1652824800",
+      "groups": {
+        "Turtlesoup Scans": "/proxy/api/imgur/chapter/DtZsXaK/"
+      }
+    },
+    "17": {
+      "title": "Raging Prefect! II",
+      "volume": "4",
+      "last_updated": "1655503200",
+      "groups": {
+        "Turtlesoup Scans": "/proxy/api/imgur/chapter/kp78N6z/"
+      }
+    },
+    "18": {
+      "title": "Raging Prefect! III",
+      "volume": "4",
+      "last_updated": "1657922400",
+      "groups": {
+        "Turtlesoup Scans": "/proxy/api/imgur/chapter/0wvQjD4/"
+      }
+    }
+  }
 }
