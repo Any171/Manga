@@ -126,7 +126,7 @@
       }
     },
     "16": {
-      "title": "Rampaging Prefect!",
+      "title": "Rampaging Prefect! I",
       "volume": "3",
       "last_updated": "1652824800",
       "groups": {
@@ -134,19 +134,43 @@
       }
     },
     "17": {
-      "title": "Raging Prefect! II",
+      "title": "Rampaging Prefect! II",
       "volume": "4",
       "last_updated": "1655503200",
       "groups": {
-        "Turtlesoup Scans": "/proxy/api/imgur/chapter/kp78N6z/"
+        "VIZ Media": "/proxy/api/imgur/chapter/UWPwojn/"
       }
     },
     "18": {
-      "title": "Raging Prefect! III",
+      "title": "Rampaging Prefect! III",
       "volume": "4",
       "last_updated": "1657922400",
       "groups": {
-        "Turtlesoup Scans": "/proxy/api/imgur/chapter/0wvQjD4/"
+        "VIZ Media": "/proxy/api/imgur/chapter/Z5dUdbk/"
+      }
+    },
+    "19": {
+      "title": "A Sad Little Child! I",
+      "volume": "4",
+      "last_updated": "1759485016",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/l8Dvhje"
+      }
+    },
+    "20": {
+      "title": "A Sad Little Child! II",
+      "volume": "4",
+      "last_updated": "1759485398",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/DgoPsTw"
+      }
+    },
+    "21": {
+      "title": "Finale for Heartslabyul!",
+      "volume": "4",
+      "last_updated": "1759485854",
+      "groups": {
+        "VIZ Media": "/proxy/api/imgur/chapter/9z1C8kW"
       }
     }
   }
